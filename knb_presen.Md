@@ -6,7 +6,7 @@ paginate: true
 ---
 
 <style>
-/* 全体の基本スタイル設定 */
+
 .two-col {
   display: flex;
   flex-direction: row;
@@ -21,7 +21,7 @@ paginate: true
   max-height: 330px;
   object-fit: contain;
 }
-/* フロー図（Step）用のスタイル */
+
 .step-box {
   background-color: #f0f4f8;
   border-left: 6px solid #0288d1;
@@ -38,8 +38,8 @@ paginate: true
 }
 </style>
 
-# アプリ名入れる
-## チーム名: バーガーキング
+# アイカウンセラー
+## チームバーガーキング
 
 ---
 
@@ -146,7 +146,7 @@ li { line-height: 1.3; }
 
 ---
 
-## アプリの利用フロー（UX）
+## アプリの利用フロー
 
 <section class="two-col">
 
@@ -154,7 +154,7 @@ li { line-height: 1.3; }
 
 <div class="step-box">
 <span class="step-title">Step 1. ログイン・AI対話</span>
-セキュアにログインし、AIアバターとのチャット形式で手軽にストレスチェックを実施。
+セキュアにログインし、AIとのチャット形式で手軽にストレスチェックを実施。
 </div>
 
 <div class="step-box">
